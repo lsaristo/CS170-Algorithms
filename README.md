@@ -1,7 +1,7 @@
 Classification Algorithms
 =========================
 
-Simplified Random Forest and K-Nearest Neighbors classifier algorithms and a DNA short read greedy reconstructor algorithm, all written as a homework projects for Computer Science 170 at UC Berkeley.
+Simplified Random Forest and K-Nearest Neighbors classifier algorithms and a DNA short read greedy reconstructor algorithm, all written as homework projects for Computer Science 170 at UC Berkeley.
 
 Files:
 
